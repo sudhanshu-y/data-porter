@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+uvicorn
+oracledb
+
+
+user/user:5432
